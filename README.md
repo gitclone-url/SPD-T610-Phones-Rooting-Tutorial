@@ -117,8 +117,8 @@ Then open spd research tool "download settings" from the tool you can find the o
 - FDL1 and FDL2
 will be auto selected you can't unselect them because those are needed
 
-Then on backup option deselect the three option that is marked in the image below.
-![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/5fb1739b-90ac-4bbf-8b4a-7442cb7ec061)
+Then on backup option select the three option that is marked in the image below, if not auto selected by default.
+![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/36fa4ec8-2ecc-4798-88b1-5f629c1b0790)
 
 Then click on 'flash operation' you can see it on right side look down and select [✓] 
  >Active write flash
