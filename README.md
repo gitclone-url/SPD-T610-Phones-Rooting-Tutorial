@@ -3,7 +3,6 @@
 </div>
 
 
-
 # Notes (read first!)
 
 - A working brain 🧠,Minimal knowledge about rooting a phone is needed. If you had never rooted a phone don't follow this guide.
@@ -107,18 +106,26 @@ keep going inside.. until you see those boot and others (img) files then replace
 
 Then open spd research tool "download settings" from the tool you can find the option beside the packet loading option.
 
-**On Main Page Only select [✓]**  
-![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/5f711ec4-2fea-4c58-a289-39581ac5d4ad)
+**On Main Page Only select [✓]** 
 
-## Warning.
-##### If you are a Micromax in2b/in2c user u will also need to select          [ [✓] bootlogo ] option as well from these options, Otherwise your device will be stuck on bootlogo.
+select [✓] boot and [✓] Vbmeta partition's as shown in the following pictures
+
+![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/5f711ec4-2fea-4c58-a289-39581ac5d4ad)
 
 ![desktop screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/0471c6f7-12e7-4d15-8e62-974d4f086321)
 
- >boot & vbmeta
+>boot & vbmeta
 
 - FDL1 and FDL2
 will be auto selected you can't unselect them because those are needed.
+
+## Note.
+
+#### The following step is must and should for Micromax in2b and in2c user's others can skip this step.
+
+select [✓] bootlogo option as shown in the picture
+
+![Screenshot_20230905-230415~2](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
 
 Then on backup option select the three option that is marked in the image below, if not auto selected by default.
 ![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/36fa4ec8-2ecc-4798-88b1-5f629c1b0790)
