@@ -14,7 +14,9 @@ Note: Don't follow this Tutorial just watch in case if you are not understanding
 
 - Some users of Micromax in 2b reported that after the flashing procedure is done,if you try to trun on device it gets stuck at bootlogo or maybe goes into bootloop, in this case you need to press and hold both volume (+)/(-) and power buttons together to switch off the device then open research download tool and flash only bootlogo, this will solve the stuck on bootlogo problem without any data loss.
 
-- some people face spd tool errors while flashing, if you face anything like that please don't prefer youtube videos for solutions because they don't work, if you follow them you may face worst situations rather than solving error like you lost your (imei, NVdata, networks) use this guide insted. [**here**](https://www.hovatek.com/forum/thread-4870.html) is the guide from hovatek you can follow this guide to solve all types of spd tool errors
+- some people face spd tool errors while flashing, if you face anything like that please don't prefer youtube videos for solutions, because they don't work. if you follow them you may face worst situations rather than solving the errors, you may lost your device Imei, NVdata, networks etc..
+
+- Follow This [**guide**](https://www.hovatek.com/forum/thread-4870.html) instead. This guide is from hovatek.com you can follow this guide to solve all types of spd tool errors.
 
 - All this phones share many similarities so a firmware of Micromax in 2b can also be flashed in symphony z33 or in2c. If you wish to flash another firmware, Yes you can! but proceed with caution ⚠️ i don't take any responsibility in case something happens wrong. i recommend you to stick with your device firmware, it does not guaranteed that if you flash another firmware device will boot without problems. As far as on my testing both Micromax  in2b/in 2c firmware booted successfully on (symphony z33).
 
