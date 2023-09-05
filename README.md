@@ -12,8 +12,6 @@
 - A similar tutorial [**video**](https://youtu.be/8dZZci43un8) on how to flash a single partition on spd phones from hovatek is also available you can watch it for deeply understanding my guide.
 Note: Don't follow this Tutorial just watch in case if you are not understanding a single line of my guide.
 
-- Some users of Micromax in 2b reported that after the flashing procedure is done,if you try to trun on device it gets stuck at bootlogo or maybe goes into bootloop, in this case you need to press and hold both volume (+)/(-) and power buttons together to switch off the device then open research download tool and flash only bootlogo, this will solve the stuck on bootlogo problem without any data loss.
-
 - some people face spd tool errors while flashing, if you face anything like that please don't prefer youtube videos for solutions, because they don't work. if you follow them you may face worst situations rather than solving the errors, you may lost your device Imei, NVdata, networks etc..
 
 - Follow This [**guide**](https://www.hovatek.com/forum/thread-4870.html) instead. This guide is from hovatek.com you can follow this guide to solve all types of spd tool errors.
@@ -121,13 +119,19 @@ select [✓] boot and [✓] Vbmeta partition's as shown in the following picture
 - FDL1 and FDL2
 will be auto selected you can't unselect them because those are needed.
 
-## Note.
+---
 
-#### The following step is must and should for Micromax in2b and in2c user's others can skip this step.
+**Important Note**
+
+A few Micromax in 2b users have encountered issues where their device gets stuck at the boot logo or enters a boot loop after completing the flashing procedure. To resolve this problem without losing any data, it is necessary to flash only the boot logo along with vbmeta & boot. 
+
+---
+
+**Please note that the following step is mandatory for Micromax in2b and in2c users, while others can proceed without this step.**
 
 select [✓] bootlogo option as shown in the picture
 
-![Screenshot_20230905-230415~2](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
+![Desktop_Screenshot](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
 
 Then on backup option select the three option that is marked in the image below, if not auto selected by default.
 ![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/36fa4ec8-2ecc-4798-88b1-5f629c1b0790)
