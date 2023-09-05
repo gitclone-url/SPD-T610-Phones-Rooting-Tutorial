@@ -3,7 +3,6 @@
 </div>
 
 
-
 # Notes (read first!)
 
 - A working brain 🧠,Minimal knowledge about rooting a phone is needed. If you had never rooted a phone don't follow this guide.
@@ -13,9 +12,11 @@
 - A similar tutorial [**video**](https://youtu.be/8dZZci43un8) on how to flash a single partition on spd phones from hovatek is also available you can watch it for deeply understanding my guide.
 Note: Don't follow this Tutorial just watch in case if you are not understanding a single line of my guide.
 
-- Some people makes stupid mistakes and their nvdata get crashed sometimes no network and also IMEI gets wiped it is highly recommend to understand every step carefully then proceed, if you follow my guide carefully you will not face such problems.
+- Some users of Micromax in 2b reported that after the flashing procedure is done,if you try to trun on device it gets stuck at bootlogo or maybe goes into bootloop, in this case you need to press and hold both volume (+)/(-) and power buttons together to switch off the device then open research download tool and flash only bootlogo, this will solve the stuck on bootlogo problem without any data loss.
 
-- Some users of Micromax in 2b reported that after the flashing procedure is done,if you try to trun on device it gets stuck at bootlogo or maybe goes into bootloop, in this case you need to press and hold both volume (+)/(-) and power button at same time to trun off the device then use volume up and power button to boot into recovery. Do a factory reset/ wipe data from there then it should trun on.
+- some people face spd tool errors while flashing, if you face anything like that please don't prefer youtube videos for solutions, because they don't work. if you follow them you may face worst situations rather than solving the errors, you may lost your device Imei, NVdata, networks etc..
+
+- Follow This [**guide**](https://www.hovatek.com/forum/thread-4870.html) instead. This guide is from hovatek.com you can follow this guide to solve all types of spd tool errors.
 
 - All this phones share many similarities so a firmware of Micromax in 2b can also be flashed in symphony z33 or in2c. If you wish to flash another firmware, Yes you can! but proceed with caution ⚠️ i don't take any responsibility in case something happens wrong. i recommend you to stick with your device firmware, it does not guaranteed that if you flash another firmware device will boot without problems. As far as on my testing both Micromax  in2b/in 2c firmware booted successfully on (symphony z33).
 
@@ -107,15 +108,26 @@ keep going inside.. until you see those boot and others (img) files then replace
 
 Then open spd research tool "download settings" from the tool you can find the option beside the packet loading option.
 
-**On Main Page Only select [✓]**  
+**On Main Page Only select [✓]** 
+
+select [✓] boot and [✓] Vbmeta partition's as shown in the following pictures
+
 ![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/5f711ec4-2fea-4c58-a289-39581ac5d4ad)
 
 ![desktop screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/0471c6f7-12e7-4d15-8e62-974d4f086321)
 
- >boot & vbmeta
+>boot & vbmeta
 
 - FDL1 and FDL2
-will be auto selected you can't unselect them because those are needed
+will be auto selected you can't unselect them because those are needed.
+
+## Note.
+
+#### The following step is must and should for Micromax in2b and in2c user's others can skip this step.
+
+select [✓] bootlogo option as shown in the picture
+
+![Screenshot_20230905-230415~2](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
 
 Then on backup option select the three option that is marked in the image below, if not auto selected by default.
 ![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/36fa4ec8-2ecc-4798-88b1-5f629c1b0790)
