@@ -121,17 +121,17 @@ will be auto selected you can't unselect them because those are needed.
 
 ---
 
-**Important Note**
+### **Important Note**
 
-A few Micromax in 2b users have encountered issues where their device gets stuck at the boot logo or enters a boot loop after completing the flashing procedure. To resolve this problem without losing any data, it is necessary to flash only the boot logo along with vbmeta & boot. 
+A few Micromax in 2b users have encountered issues where their device gets stuck at the boot logo or enters a boot loop after completing the flashing procedure. To resolve this problem without losing any data, it is necessary to flash the bootlogo along with vbmeta & boot. 
+
+select [✓] bootlogo option as shown in the picture:
+
+![Boot Logo Selection](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
+
+**Please note This step is mandatory for Micromax In 2b & In 2c users, while others can proceed without it.**
 
 ---
-
-**Please note that the following step is mandatory for Micromax in2b and in2c users, while others can proceed without this step.**
-
-select [✓] bootlogo option as shown in the picture
-
-![Desktop_Screenshot](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
 
 Then on backup option select the three option that is marked in the image below, if not auto selected by default.
 ![Desktop Screenshot](https://github.com/gitclone-url/SPD-T610-Phones-Rooting-Tutorial/assets/98699436/36fa4ec8-2ecc-4798-88b1-5f629c1b0790)
