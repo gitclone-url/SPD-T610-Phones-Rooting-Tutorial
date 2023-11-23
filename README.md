@@ -127,7 +127,8 @@ A few Micromax in 2b users have encountered issues where their device gets stuck
 
 select [✓] bootlogo option as shown in the picture:
 
-![Boot Logo Selection](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/67cda223-03ef-4f4d-8e14-ed40877dc5d9)
+![Boot Logo Selection](https://github.com/Praveenganisetti/SPD-T610-Phones-Rooting-Tutorial/assets/110226933/6d5b32f9-e18b-4e7f-8e30-4e1b67968e84)
+
 
 **Please note This step is mandatory for Micromax In 2b & In 2c users, while others can proceed without it.**
 
